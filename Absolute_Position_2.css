@@ -1,0 +1,19 @@
+body
+{
+	background:url(https://git.io/JUWOD);
+}
+
+#Astro_Girl
+{
+	width:200px;
+	height:200px;
+	position:absolute;
+}
+
+#Astro_Boy
+{
+	width:200px;
+	height:200px;
+	position:relative;
+	left:400px;
+}

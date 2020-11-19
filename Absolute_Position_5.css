@@ -1,0 +1,35 @@
+body
+{
+	background-image:url(https://git.io/JUWOD);
+}
+
+#Parent
+{	
+	position:absolute;
+	top:20px;
+	left:100px;
+	width:500px;
+	height:500px;
+	border:2px solid darkorange;
+}
+
+#Astro_Girl
+{
+	position:absolute;
+	top:50px;
+	left:100px;
+}
+
+#Astro_Cartoon
+{
+	position:absolute;
+	top:200px;
+	left:300px;
+}
+
+#Astro_Boy
+{
+	position:absolute;
+	top:350px;
+	left:500px;
+}
